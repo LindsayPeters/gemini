@@ -1,0 +1,216 @@
+USER EXPRESSION, CANONICAL EXPRESSION
+absolute glucose,absolute value of glucose
+absolute Glucose,absolute value of Glucose
+presence of glucose detected,glucose is available
+Presence of Glucose detected,Glucose is available
+glucose is pending,glucose is "pending"
+elevated glucose,glucose is high
+elevated Glucose,Glucose is high
+Elevated glucose,glucose is high
+Elevated Glucose,Glucose is high
+elevated glucose findings,glucose is high
+elevated glucose results,glucose is high
+glucose elevated,glucose is high
+raised glucose,glucose is high
+glucose is too high,glucose is high
+lowered glucose,glucose is low
+low glucose,glucose is low
+glucose is too low,glucose is low
+glucose is in the acceptable range,glucose is normal
+glucose in the normal range,glucose is normal
+abnormal glucose,glucose is not normal
+glucose is abnormal,glucose is not normal
+glucose ** 3,glucose to the power of 3
+Glucose levels are elevated,Glucose is high
+Fall in Glucose,Glucose is low
+Rise in Sucrose,Sucrose is high
+Sucrose is down,Sucrose is low
+Fructose levels are elevated,Fructose is high
+Fructose levels are lowered,Fructose is low
+Cholesterol is up,Cholesterol is high
+Cholesterol is down,Cholesterol is low
+Rise in Triglyceride,Triglyceride is high
+Triglyceride levels are lowered,Triglyceride is low
+HDL is up,HDL is high
+Fall in HDL,HDL is low
+Iron levels are elevated,Iron is high
+Fall in Iron,Iron is low
+Rise in TIBC,TIBC is high
+Fall in TIBC,TIBC is low
+UIBC levels are elevated,UIBC is high
+UIBC is down,UIBC is low
+TSH levels are elevated,TSH is high
+TSH is down,TSH is low
+Rise in Total Protein,Total Protein is high
+Decreased Total Protein levels,Total Protein is low
+Rise in Bilirubin Total,Bilirubin Total is high
+Ferritin levels are elevated,Ferritin is high
+Fall in Ferritin,Ferritin is low
+Glucose is present,Glucose is available
+Glucose has not been tested,Glucose is not available
+Sucrose levels detected,Sucrose is available
+Sucrose has not been tested,Sucrose is not available
+Fructose levels detected,Fructose is available
+No Fructose levels detected,Fructose is not available
+Cholesterol has been tested,Cholesterol is available
+Absence of Cholesterol detected,Cholesterol is not available
+Triglyceride has been tested,Triglyceride is available
+No Triglyceride levels detected,Triglyceride is not available
+Presence of HDL detected,HDL is available
+No HDL levels detected,HDL is not available
+Iron has been tested,Iron is available
+No Iron levels detected,Iron is not available
+TIBC has been tested,TIBC is available
+TIBC has not been tested,TIBC is not available
+UIBC has been tested,UIBC is available
+UIBC has not been tested,UIBC is not available
+Presence of TSH detected,TSH is available
+Absence of TSH detected,TSH is not available
+Total Protein levels detected,Total Protein is available
+Absence of Total Protein detected,Total Protein is not available
+Bilirubin Total levels detected,Bilirubin Total is available
+No Bilirubin Total levels detected,Bilirubin Total is not available
+Presence of Ferritin detected,Ferritin is available
+No Ferritin levels detected,Ferritin is not available
+Glucose above 26.55,Glucose > 26.55
+Glucose is lower or equal to 39.98,Glucose <= 39.98
+Glucose is between 14.23 and 99.54,14.23 <= Glucose <= 99.54
+Glucose is higher than 58.24 but lower than 82.62,58.24 < Glucose < 82.62
+Glucose is higher than 58.24 but lower than 82.62,58.24 < Glucose < 82.62
+Sucrose is greater or equal to 35.55,Sucrose >= 35.55
+Sucrose under 63.19,Sucrose < 63.19
+Sucrose is between 21.72 and 64.66,21.72 <= Sucrose <= 64.66
+Sucrose is higher than 81.04 but lower than 98.33,81.04 < Sucrose < 98.33
+Fructose is < 13.94,Fructose < 13.94
+Fructose is less than 13.94,Fructose < 13.94
+Fructose is below 13.94,Fructose < 13.94
+Fructose is less than 37.3,Fructose < 37.3
+Fructose is > 7,Fructose > 7
+Fructose is more than 7,Fructose > 7
+Fructose is between 34.56 and 92.16,34.56 <= Fructose <= 92.16
+Fructose is higher than 42.66 but lower than 87.07,42.66 < Fructose < 87.07
+Cholesterol is greater or equal to 75.69,Cholesterol >= 75.69
+Cholesterol is greater than 35.28,Cholesterol > 35.28
+Cholesterol is between 66.51 and 67.69,66.51 <= Cholesterol <= 67.69
+Cholesterol is higher than 50.2 but lower than 59.95,50.2 < Cholesterol < 59.95
+Triglyceride is lower or equal to 73.69,Triglyceride <= 73.69
+Triglyceride is less or equal to 10.7,Triglyceride <= 10.7
+Triglyceride is between 31.18 and 69.4,31.18 <= Triglyceride <= 69.4
+Triglyceride is higher than 23.76 but lower than 31.72,23.76 < Triglyceride < 31.72
+HDL is greater or equal to 90.83,HDL >= 90.83
+HDL is less or equal to 70.16,HDL <= 70.16
+HDL is between 51.61 and 54.39,51.61 <= HDL <= 54.39
+HDL is higher than 56.62 but lower than 69.58,56.62 < HDL < 69.58
+Iron is higher or equal to 14.76,Iron >= 14.76
+Iron is greater or equal to 3.97,Iron >= 3.97
+Iron is between 61.31 and 61.65,61.31 <= Iron <= 61.65
+Iron is higher than 57.81 but lower than 59.61,57.81 < Iron < 59.61
+TIBC is less or equal to 83.01,TIBC <= 83.01
+TIBC under 80.05,TIBC < 80.05
+TIBC is between 87.89 and 98.18,87.89 <= TIBC <= 98.18
+TIBC is higher than 29.4 but lower than 32.94,29.4 < TIBC < 32.94
+UIBC is lower or equal to 3.82,UIBC <= 3.82
+UIBC is greater or equal to 27.76,UIBC >= 27.76
+UIBC is between 18.98 and 90.9,18.98 <= UIBC <= 90.9
+UIBC is higher than 5.83 but lower than 85.25,5.83 < UIBC < 85.25
+TSH is lower than 16.54,TSH < 16.54
+TSH is less than 73.08,TSH < 73.08
+TSH is between 30.49 and 62.71,30.49 <= TSH <= 62.71
+TSH is higher than 2.15 but lower than 11.04,2.15 < TSH < 11.04
+Total Protein is lower or equal to 0.99,Total Protein <= 0.99
+Total Protein under 18.11,Total Protein < 18.11
+Total Protein is between 1.83 and 40.35,1.83 <= Total Protein <= 40.35
+Total Protein is higher than 39.55 but lower than 47.36,39.55 < Total Protein < 47.36
+Bilirubin Total is greater or equal to 38.37,Bilirubin Total >= 38.37
+Bilirubin Total is higher or equal to 78.61,Bilirubin Total >= 78.61
+Bilirubin Total is between 16.62 and 55.67,16.62 <= Bilirubin Total <= 55.67
+Bilirubin Total is higher than 60.22 but lower than 72.47,60.22 < Bilirubin Total < 72.47
+Ferritin is less or equal to 44.32,Ferritin <= 44.32
+Ferritin is more than 45.84,Ferritin > 45.84
+Ferritin is between 68.26 and 80.92,68.26 <= Ferritin <= 80.92
+Ferritin is higher than 23.35 but lower than 46.46,23.35 < Ferritin < 46.46
+glucose or triglyceride is available,glucose is available or triglyceride is available
+Glucose or HDL is available,Glucose is available or HDL is available
+Sucrose or Cholesterol is available,Sucrose is available or Cholesterol is available
+HDL or Triglyceride is available,HDL is available or Triglyceride is available
+Glucose and HDL is available,Glucose is available and HDL is available
+Sucrose and Cholesterol is available,Sucrose is available and Cholesterol is available
+HDL and Triglyceride is available,HDL is available and Triglyceride is available
+"If glucose is high, then ""HIGH"" else ""Normal""","""HIGH"" if glucose is high else ""Normal"""
+"If Cholesterol is high, then ""HIGH"" else ""Normal""","""HIGH"" if Cholesterol is high else ""Normal"""
+"If Triglyceride is high, then ""HIGH"" else ""Normal""","""HIGH"" if Triglyceride is high else ""Normal"""
+"If Triglyceride is low, then ""LOW"" else ""Normal""","""LOW"" if Triglyceride is low else ""Normal"""
+Fructose is low within last 14 days,"some Fructose is low, within last 14 days"
+Fructose is high within last 7 days,"some Fructose is high, within last 7 days"
+HDL is high within last 7 days,"some HDL is high, within last 7 days"
+Triglyceride is high within last 7 days,"some Triglyceride is high, within last 7 days"
+Triglyceride is high within last 7 months,"some Triglyceride is high, within last 7 months"
+gluc is still pending,gluc is "pending"
+TSH is still pending,TSH is "pending"
+at least 2 glucose tests have been done,at least 2 glucose is available
+at least 3 cholesterol tests have been done,at least 3 cholesterol is available
+it's been more than a year since the last glucose test,at least 1 year since most recent glucose
+it's been more than a year since the last sucrose test,at least 1 year since most recent sucrose
+all glucose tests have been normal,"all glucose are normal, where glucose is available"
+all iron tests have been normal,"all iron are normal, where iron is available"
+a glucose test has been done in the last year,"at least 1 glucose is available, within last year"
+a iron test has been done in the last year,"at least 1 iron is available, within last year"
+there has only been one glucose test in the last year,"exactly 1 glucose is available, within last year"
+there has only been two iron tests in the last year,"exactly 2 iron is available, within last year"
+less than 6 months since the previous iron test was done,less than 6 months since second most recent iron
+less than 12 months since the previous Glucose test was done,less than 12 months since second most recent Glucose
+more than 10 percent increase in Glucose since previous result,percent increase from previous Glucose > 10
+more than 25 percent increase in Iron since previous result,percent increase from previous Iron > 25
+more than 15 percent decrease in Iron since previous result,percent decrease from previous Iron > 15
+some previous Glucose was above the reference range,some previous Glucose is high
+some previous glucose was above the reference range,some previous glucose is high
+some previous Iron was above the reference range,some previous Iron is high
+the Glucose test done two episodes ago was high,Glucose 2 episodes ago is high
+the Iron test done three episodes ago was high,Iron 3 episodes ago is high
+"insurance policy contains 'NRMA'","insurance policy contains ""NRMA"""
+Clinical notes matches "diabetic" exactly, Clinical notes exactly matches "diabetic"
+Clinical notes matches "diabetic", Clinical notes matches "diabetic"
+XYZ  >  4 where Rhubarb is available,"XYZ > 4, where Rhubarb is available"
+PLT_MarkedlyElev is true where second most recent HPLAT is available,"PLT_MarkedlyElev is true, where second most recent HPLAT is available"
+"all cholesterol where, triglyceride is available are numeric","all cholesterol are numeric, where triglyceride is available"
+at least 1 day between first and second most recent Pancytopaenia,at least 1 day between first Pancytopaenia and second most recent Pancytopaenia
+at least 1 day between first Pancytopaenia and second most recent Pancytopaenia where HPLAT is low,"at least 1 day between first Pancytopaenia and second most recent Pancytopaenia, where HPLAT is low"
+"second most recent MacroAnaemia, where HHBO is low is true","second most recent MacroAnaemia, where HHBO is low"
+GGT > 2 * upper reference range of ggt,GGT > 2 * upper reference value of ggt
+GGT is more than 3 times upper limit,GGT > 3 * upper reference value of GGT
+BCRP is high 2 episodes ago, BCRP 2 episodes ago is high
+no (previous HHBO within last 12 months) is low,"no previous HHBO is low, within last 12 months"
+some (previous HHBO within last 12 months) is low,"some previous HHBO is low, within last 12 months"
+some previous HHBO within last 12 months is high,"some previous HHBO is high, within last 12 months"
+no previous HHBO within last 12 months is low,"no previous HHBO is low, within last 12 months"
+some ZHLYMABS in last 12 months is normal,"some ZHLYMABS is normal, within last 12 months"
+ZHLYMABS has increased by more than 3 percent between last 3 results,ZHLYMABS has increased by more than 3 percent between each of last 3 results
+CollectionDate at most recent IronDeficient is true is CollectionDate,CollectionDate at (most recent (IronDeficient is true)) is CollectionDate
+"today as minutes from epoch using format ""yyyyMMdd HH:mm:ss""","today as minutes from epoch using format ""dd/MM/yyyy HH:mm:ss"""
+today from epoch,"today as minutes from epoch using format ""dd/MM/yyyy HH:mm:ss"""
+"Whenever glucose is high, then ""HIGH"" otherwise ""Normal""","""HIGH"" whenever glucose is high otherwise ""Normal"""
+Glucose rounded to 2 (decimal) places, Glucose formatted to 2 places
+Glucose rounded to 2 decimal places, Glucose formatted to 2 places
+Glucose to 2 decimal places,Glucose formatted to 2 places
+TSH rounded to whole number, TSH as integer
+Difference between GTT_2hr and GTT_1hr, GTT_2hr - GTT_1hr
+Change in glucose,differences between glucose
+Glucose is out of range, Glucose is not normal
+Glucose out of range, Glucose is not normal
+Glucose is in range, Glucose is normal
+Glucose in range, Glucose is normal
+Diabetic is false, not Diabetic
+Glucose divided by Fructose, Glucose / Fructose
+Glucose times Fructose, Glucose * Fructose
+Glucose plus Fructose, Glucose + Fructose
+Glucose minus Fructose, Glucose - Fructose
+insurance policy has 9 Digits,insurance policy exactly matches "[0-9]{9}"
+CollectionDate (at most recent IronDeficient is true) is CollectionDate,CollectionDate at (most recent (IronDeficient is true)) is CollectionDate
+ALP is greater than 1.1 times upper reference of ALP,ALP > 1.1 * upper reference value of ALP
+ALP > 1.1 times upper reference of ALP,ALP > 1.1 * upper reference value of ALP
+no HDL is normal,no HDL is normal
+LDL is less than (DerivedLDL plus 4),LDL < (DerivedLDL + 4)
+at least 2 HDL in 24 hours,"at least 2 HDL is available, within last 24 hours"
+2 or more LDL less than 3,at least 2 LDL < 3
+2 or more LDL < 3,at least 2 LDL < 3
+no glucose in last year,"no glucose is available, within last year"
